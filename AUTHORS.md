@@ -6,6 +6,7 @@
 
 * [Mthamed](https://github.com/mtahmed)
 * [Fernando Alvarez](https://github.com/fern4lvarez) <fa@cloudcontrol.de>
+* [Benjamin Reitzammer](https://github.com/nureineide)
 
 
 ## Open-source contributions import
